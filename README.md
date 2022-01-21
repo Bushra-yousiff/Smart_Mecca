@@ -19,8 +19,9 @@
     these objects relate to each other.
 
 # Data Description:
-      In this project we created our dataset for both "chatbot" and "image caption". Merging our dataset" image caption" with  "Flickr30k" datasets.  Flickr30k
-      contains 158,915 rows and 3 columns. The total number of unique images for Flickr30k are 31,783 each paired with five different captions.
+      In this project we created our dataset for both "chatbot" and "image caption". Merging our dataset" image caption" 
+      with  "Flickr30k" datasets.Flickr30k contains 158,915 rows and 3 columns. The total number of unique images for 
+      Flickr30k are 31,783 each paired with five different captions.
 # Tools
 Pandas
 
