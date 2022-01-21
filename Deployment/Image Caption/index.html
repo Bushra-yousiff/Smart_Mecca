@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	  <link href='https://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+ <style >
+ 	 body{
+  color: #092922;
+  font-family: 'Dosis', sans-serif;
+  margin: 0;
+  padding-top: 40px;
+}
+input[type=submit]{
+  position: relative;
+  padding: 15px 15px;
+  background: #2ABB9B;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.2em;
+  color: #FFF;
+  -webkit-box-shadow: 0px 5px 0px #249E83;
+  -moz-box-shadow: 0px 5px 0px #249E83;
+  box-shadow: 0px 5px 0px #249E83;
+}
+input[type=submit]:hover{
+  color: #FFF;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+}
+input[type=button]:active{
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  top: 5px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+input[type=button]:focus{
+  position: relative;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  outline: none;
+}
+
+ </style>
+
+	<title> Mecca Caption </title>
+</head>
+<body>
+	<div style="margin-bottom:10% ;">
+<h3 style="text-align: center;">Mecca Caption </h3>	
+<h1 style="text-align: center;"> Here you can take a picture from Al Masjed Alharam for recognize it </h1>
+</div>
+<div style="text-align:center;">
+
+<form method='POST' action='/' enctype='multipart/form-data'> 
+<input type="file" name="userfile" placeholder="Your image">
+<input type="submit">
+</form>
+</div>
+<div style="text-align:center;">
+{% if your_result %}
+	<img src='{{your_result["image"]}}'>
+	<br>
+	<h1> الوصف : <i> {{ your_result['caption'] }} </i></h1>
+{% endif %}
+</div>
+</body>
+</html>
