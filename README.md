@@ -2,8 +2,7 @@
 # SMART MECCA
 
 <img width="466" alt="logomeccaone04" src="https://user-images.githubusercontent.com/75619142/150621549-d5ee9551-e3c5-44aa-b6c5-165bad676d98.png">
-<img width="466" alt="logomeccaone02" src="https://user-images.githubusercontent.com/75619142/150621668-7edc1e91-cf42-4520-82ce-19e6141a4e0f.png">
-
+<img width="466" alt="logomeccai03" src="https://user-images.githubusercontent.com/75619142/150622318-14fdd953-93aa-499e-a1e0-bfd5b884badb.png">
 # Abstract
   Recently, caption generation has raised a huge interest in images and videos. However, it is challenging for the models to select proper subjects in a complex
       
