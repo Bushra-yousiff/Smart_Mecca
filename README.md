@@ -2,6 +2,7 @@
 # SMART MECCA
 
 <img width="466" alt="Screen Shot 1443-06-19 at 5 16 05 AM" src="https://user-images.githubusercontent.com/75619142/150621370-41c180b0-b760-40eb-9efb-9a0b917ca158.png">
+<img width="466" alt="Screen Shot 1443-06-19 at 5 26 48 AM" src="https://user-images.githubusercontent.com/75619142/150621434-cb4fe4e7-f8d8-4b17-b26b-4ac3225af405.png">
 
 
 # Abstract
