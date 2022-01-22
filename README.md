@@ -25,50 +25,51 @@
       With  "Flickr30k" datasets.Flickr30k contains 158,915 rows and 3 columns. The total number of unique images for 
       Flickr30k are 31,783 each paired with five different captions.
 # Tools
-Pandas
+  • Pandas
 
-NumPy	
+  • NumPy	
 
-Keras
+  • Keras
 
-TensorFlow
+  • TensorFlow
 
-Sklearn
+  • Sklearn
 
-Matplot
+  • Matplot
 
-Flask
+  • Flask
 
-Pickle
+  • Pickle
 
-PIL
+  • PIL
 
-Convolutional Neural Networks 
-seaborn 
+  • Convolutional Neural Networks Seaborn 
 
-pydotplus 
+  • pydotplus 
 
-googletrans
+  • googletrans
 
-Gtts
-
+  • Gtts
+  • pygame
 
 # Algorithms
-InceptionV3
+    - InceptionV3
 
-Transfere Learning
+    - Transfere Learning
 
-GloVe model
+    - GloVe model
+    
+    - LSTM
+    
+    - RNN
 
-RN
+    - NMF 
 
-NMF
+    - LSA
 
-LSA
+    - LDA
 
-LDA
-
-BERTopic
+    - BERTopic
 
 # Communication
 https://prezi.com/p/edit/ha663zlcmfuu/
