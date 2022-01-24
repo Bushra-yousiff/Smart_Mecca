@@ -75,8 +75,9 @@
     - BERTopic
 
 # Communication
-https://prezi.com/p/edit/ha663zlcmfuu/
- 
+
+https://prezi.com/view/ueMyGVr3fe9RSw9N43Jx/ 
+
 # Conclusion
 The project successfully achieve it's goal using Deep Learning and NLP.
 
