@@ -1,8 +1,8 @@
 
 # SMART MECCA
 
-<img width="466" alt="logomeccaone04" src="https://user-images.githubusercontent.com/75619142/150621549-d5ee9551-e3c5-44aa-b6c5-165bad676d98.png">
-<img width="466" alt="logomeccai03" src="https://user-images.githubusercontent.com/75619142/150622318-14fdd953-93aa-499e-a1e0-bfd5b884badb.png">
+# <img width="466" alt="logomeccaone04" src="https://user-images.githubusercontent.com/75619142/150621549-d5ee9551-e3c5-44aa-b6c5-165bad676d98.png">
+# <img width="466" alt="logomeccai03" src="https://user-images.githubusercontent.com/75619142/150622318-14fdd953-93aa-499e-a1e0-bfd5b884badb.png">
 
 # Abstract
 
@@ -52,6 +52,7 @@
   • googletrans
 
   • Gtts
+  
   • pygame
 
 # Algorithms
